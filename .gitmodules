@@ -1,3 +1,6 @@
 [submodule "source-data/census2010"]
 	path = source-data/census2010
 	url = git@github.com:NewportDataPortal/RIGIS-census-2010-summary-file-1-indicators.git
+[submodule "source-data/bus-stops"]
+	path = source-data/bus-stops
+	url = git@github.com:NewportDataPortal/RIGIS-RIPTA-bus-stops.git
